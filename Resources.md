@@ -8,6 +8,9 @@ Download
 PD tutorial
 [http://en.flossmanuals.net/pure-data/](http://en.flossmanuals.net/pure-data/)
 
+Rob's Files
+[https://ccrma.stanford.edu/~rob/rpi/pd_lab.zip](https://ccrma.stanford.edu/~rob/rpi/pd_lab.zip)
+
 ## Supercollider
 
 Live code sound
