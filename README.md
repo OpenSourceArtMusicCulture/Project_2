@@ -27,6 +27,9 @@ To successfully complete the assignment, you must submit the following files com
 * Additionally, lists of objects and tutorials explaining their use can be accessed via the "Help Browser" (Help > Browser... > Pure Data), and more online resources for Pure Data can be found at:
 
 http://puredata.info/ 
+
 http://www.pd-tutorial.com/english/index.html
+
 http://en.flossmanuals.net/pure-data/
+
 https://sites.google.com/site/porres/Tut-Eng.zip?attredirects=0
